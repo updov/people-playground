@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.23.1] - March 28 2022
+## [[1.23.1](https://updov.com/download-people-playground/)] - March 28 2022
 
 ## Fixed
  - Wheel problem
