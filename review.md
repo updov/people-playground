@@ -1,0 +1,3 @@
+# People Playground Free Download For Windows
+
+People Playground Free Download For Windows is a popular game. This concept was created to kill all characters around the game. especially this game is strictly not for children. The latest version is 1.19.2, That game support to Different platform. But It mainly supports the Windows 10, 8.1, 8, and 7 Operating systems. So People Playground Free Download New Version is a game that game shows the different ways to die. That is one of the brutal games.
