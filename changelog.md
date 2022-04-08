@@ -1,5 +1,55 @@
 # Changelog
 
+
+# [1.23.6] - April 3 2022
+
+## Added 
+ - "Dynamic" collision mode. Dynamic mode switches between discrete and continuous based on velocity. It serves as a middle-ground between the two, being more reliable than discrete mode but not as CPU-hungry as continuous mode.
+ - Android "skin" can be burnt off, just like pre-temperature-update versions
+ - Boat motor
+
+## Changed
+ - Minor optimisations to do with dragging
+ - Slowed human internal temperature transfer rate
+ - If the heart is stopped or blood flow is blocked, organisms no longer lose all blood pressure immediately
+ - Made organisms more vulnerable to hot/cold environments
+ - Minor changes to metal impact VFX
+ - Save files containing foliage are now much smaller and will take less time to load/save
+ - Leaves will resize with the rest of the foliage 
+ - Ceiling turret is no longer invulnerable to heat 
+
+## Fixed
+ - Weapons (and other things) not saving their position properly when held by a ragdoll
+ - Some spelling inconsistencies
+ - Black hole not doing the black hole thing sometimes
+ - Modded liquids will now correctly cause a contraption to require mods
+ - A bug, believe it or not
+ - Crate debris fuckery
+ - Bug to do with piston correction
+ - Winch connector thing being weird when flipped
+ - Android arm decal rendering
+ - Moving foliage around in pause mode will now bring leaves with them
+ - Problem to do with car doors being broken and then being copy-pasted
+
+## [1.23.5] - April 1 2022
+
+## Changed
+ - Water breathing serum now lasts forever
+
+## Fixed
+ - Water breathing syringe bug
+ - Logging issue
+
+## [1.23.4] - March 30 2022
+
+## Changed
+ - Made the ambience in the Small map a lot less loud
+ - Minor performance improvements
+
+## Fixed
+ - Potentially unachievable achievement
+
+
 ## [[1.23.1](https://updov.com/download-people-playground/)] - March 28 2022
 
 ## Fixed
